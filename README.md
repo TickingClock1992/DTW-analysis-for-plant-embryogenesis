@@ -1,1 +1,1 @@
-This 
+This R code was used to 1) identify differentially expressed genes by using one-way analysis of variance (ANOVA)-like testing in edgeR with an FDR cutoff of 0.05, 2) compute pseudotime indices by estimating developmental time unit (DTU) values based on the PCA analysis, and 3) perform dynamic time warping (DTW) analysis using the standardized expression profiles.
